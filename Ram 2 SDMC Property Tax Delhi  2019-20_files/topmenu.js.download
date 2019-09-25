@@ -1,0 +1,108 @@
+BuildLayer('h','','','','250','250','','','','2','0','1px Solid #CD4312','1px Solid #CD4312','1px Solid #CD4312','1px Solid #CD4312','left','#F89F03','','1','1','','Filter:none(Duration=0.5)','0','#C0C0C0','1','Default','Pointer','','100','0','#FFFFFF')
+SwapDiv('wme1','','Home','','','0','0','','','0','0','auto','100','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif','9pt','9pt','normal','normal','#FFFFFF','#E7C6C6','bold','bold','none','none','#1d4e52','#1d4e52','blank.gif','blank.gif','1','1','1','1','0px Solid #1d4e52','0px Solid #1d4e52','0px Solid #1d4e52','0px Solid #1d4e52','0px Solid #1d4e52','0px Solid #1d4e52','0px Solid #1d4e52','0px Solid #1d4e52','middle','center','index.php','','','_self','','','0','blank.gif','blank.gif','auto','auto','0','0','0')
+SwapDiv('wme34','wme1','',_,_,_,_,_,_,_,_,'1','1','Verdana,Arial,Helvetica,sans-serif',_,'9pt','9pt',_,_,'transparent','transparent','normal','normal',_,_,'#FFFFFF','transparent',_,_,'0','0','0','0','none','none','none','none','none','none','none','none','top','left','',_,_,_,_,_,'2',_,_,_,_,_,_,_)
+SwapDiv('wme4','wme1','General Info',_,_,_,_,'arrow.gif','arrow.gif','7','7',_,'130',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF',_,_,'',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+FreeLayer('wme30','','5','v','0','0','1','2','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','#FFFFFF','','1','1','','Filter:none(Duration=0.5)','','#C0C0C0','0','100')
+SwapDiv('wme51','wme4','About Property Tax',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','detail.php?id=11',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme29','wme51','Zone List',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','zonelist.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme31','wme29','Ward List',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','wardlist.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme32','wme29','Colony List',_,_,_,_,_,_,_,_,_,_,_,'Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','colonylist.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme32','wme29','District Centers Colony List',_,_,_,_,_,_,_,_,_,_,_,'Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','DCcolonylist.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme32','wme29','NHCC Colony List',_,_,_,_,_,_,_,_,_,_,_,'Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','NHCCcolonylist.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme32','wme29','Metropolitan City Center Colony List',_,_,_,_,_,_,_,_,_,_,_,'Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','MCCcolonylist.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme33','wme29','Rural Abadi Villages',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ruralcolony.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+
+SwapDiv('wme33','wme29','Rebate & Exemption Categories',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','detail.php?id=9',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme33','wme29','Property Tax Rates-General',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ufwithtaxrates.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+/*SwapDiv('wme33','wme29','Property Tax Rates-MCC',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ufwithtaxratesmcc.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)*/
+SwapDiv('wme33','wme29','Covered Area Calculations',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','coveareacal.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+InitDiv();
+SwapDiv('wme35','wme34',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'2',_,_,_,_,_,_,_)
+
+SwapDiv('wme20','wme32','list of Property Ids',_,_,_,_,_,_,_,_,_,'170','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'mnsearchpropid.php','Colonywise Property IDs',_,_,_,_,'0',_,_,_,_,_,_,_)
+//mnsearchpropid.php
+SwapDiv('wme36','wme34',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'2',_,_,_,_,_,_,_)
+
+/*SwapDiv('wme5','wme1','Search Property',_,_,_,_,'arrow.gif','arrow.gif','7','7',_,'145',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF',_,_,'',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+FreeLayer('wme40','','5','v','0','0','1','2','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','#FFFFFF','','1','1','','Filter:none(Duration=0.5)','','#C0C0C0','0','150')
+SwapDiv('wme29','wme4','list of Property Ids',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','mnsearchpropid.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme29','wme4','Search New UPIC',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','searchnewpropid.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+InitDiv();
+SwapDiv('wme37','wme34',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'2',_,_,_,_,_,_,_)*/
+
+SwapDiv('wme4','wme1','Receipts/Cheques',_,_,_,_,'arrow.gif','arrow.gif','7','7',_,'150',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF',_,_,'',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+FreeLayer('wme30','','5','v','0','0','1','2','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','#FFFFFF','','1','1','','Filter:none(Duration=0.5)','','#C0C0C0','0','100')
+SwapDiv('wme29','wme4','Receipts',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','offPropSrch.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme31','wme29','Dishonoured Cheques',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','homedishonlist.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme33','wme29','Cancelled Receipts',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','homecanrcptlist.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+InitDiv();
+SwapDiv('wme37','wme34',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'2',_,_,_,_,_,_,_)
+
+SwapDiv('wme4','wme1','Grievances',_,_,_,_,'arrow.gif','arrow.gif','7','7',_,'120',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF',_,_,'',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+FreeLayer('wme30','','5','v','0','0','1','2','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','#FFFFFF','','1','1','','Filter:none(Duration=0.5)','','#C0C0C0','0','100')
+SwapDiv('wme29','wme4','Lodge Grievance reg Tax Receipt',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','grievance.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme31','wme29','Grievance Status',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','griestatus.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme31','wme29','Axis Enquiry Status',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','axisEnquiry.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+InitDiv();
+SwapDiv('wme37','wme34',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'2',_,_,_,_,_,_,_)
+
+SwapDiv('wme4','wme1','PTR FORM',_,_,_,_,'arrow.gif','arrow.gif','7','7',_,'120',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF',_,_,'',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+FreeLayer('wme30','','5','v','0','0','1','2','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','#FFFFFF','','1','1','','Filter:none(Duration=0.5)','','#C0C0C0','0','100')
+
+/// Commented for FY change - 2017-18
+//ptaxapplication.php?id=13
+SwapDiv('wme29','wme4','Detailed PTR Form',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=13',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme29','wme4','Annexure of PTR',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=117',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme29','wme4','Schedule of Taxes',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=116',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+//SwapDiv('wme29','wme4','Single PTR Form',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=118',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+//SwapDiv('wme29','wme4','General Info',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=119',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+
+/*SwapDiv('wme29','wme4','Single Page PTR Form for SDMC',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=112',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+/*
+SwapDiv('wme29','wme4','Single Page PTR Form for SDMC -HINDI',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=113',_,_,_,_,_,'0',_,_,_,_,_,_,_)*/
+
+/*
+// Commented for FY change end
+
+
+SwapDiv('wme29','wme4','Detailed PTR Form for SDMC -HINDI',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=111',_,_,_,_,_,'0',_,_,_,_,_,_,_)*/
+
+// End
+
+/*SwapDiv('wme29','wme4','One Page PTR Form English',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','',_,_,_,_,_,'0',_,_,_,_,_,_,_)*/
+
+/*SwapDiv('wme29','wme4','Single page PTR form for North Delhi Municipal Corp.',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=6',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+
+SwapDiv('wme29','wme4','Single page PTR form for East Delhi Municipal Corp.',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=8',_,_,_,_,_,'0',_,_,_,_,_,_,_)*/
+
+
+
+/*SwapDiv('wme29','wme4','Two Page PTR Form for South Delhi Municipal Corp.',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=12',_,_,_,_,_,'0',_,_,_,_,_,_,_)*/
+
+/*SwapDiv('wme29','wme4','Single Page PTR Form for South Delhi Municipal Corp.',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=7',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+
+SwapDiv('wme29','wme4','Single Page PTR Form for East Delhi Municipal Corp.',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=8',_,_,_,_,_,'0',_,_,_,_,_,_,_)*/
+
+//SwapDiv('wme31','wme29','FY 2011-12 One Page Form',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxapplication.php?id=2',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+InitDiv();
+SwapDiv('wme37','wme34',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'2',_,_,_,_,_,_,_)
+
+/*SwapDiv('wme19','wme20','Application',_,_,_,_,_,_,_,_,_,'100',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'ptaxapplication.php?id=1',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme38','wme34',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'2',_,_,_,_,_,_,_)*/
+SwapDiv('wme19','wme1','Search New UPIC',_,_,_,_,_,_,_,_,_,'155',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'searchnewpropid.php',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme38','wme34',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'2',_,_,_,_,_,_,_)
+SwapDiv('wme4','wme1','Notices/Acts',_,_,_,_,'arrow.gif','arrow.gif','7','7',_,'140',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF','0px Solid #FFFFFF',_,_,'',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+FreeLayer('wme30','','5','v','0','0','1','2','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','1px Solid #ACA899','#FFFFFF','','1','1','','Filter:none(Duration=0.5)','','#C0C0C0','0','100')
+SwapDiv('wme29','wme4','Notices/Circulars',_,_,_,_,'','blank.gif','0','0',_,'auto','Verdana,Arial,Helvetica,sans-serif','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','noticeslist.php?type=N',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme33','wme29','Property Tax Acts',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','noticeslist.php?type=A',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+// commented on june 12th 2013
+/*SwapDiv('wme33','wme29','Property Tax Guide',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxguide.php?id=1',_,_,_,_,_,'0',_,_,_,_,_,_,_)*/
+
+SwapDiv('wme33','wme29','Mutation',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'left','ptaxguide.php?id=2',_,_,_,_,_,'0',_,_,_,_,_,_,_)
+InitDiv();
+SwapDiv('wme35','wme34',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'2',_,_,_,_,_,_,_)
+//SwapDiv('wme20','wme32','RTI',_,_,_,_,_,_,_,_,_,'50','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'rtidocs.php','',_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme20','wme32','RTI',_,_,_,_,_,_,_,_,_,'100','Verdana,Arial,Helvetica,sans-serif',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'http://111.93.47.72/csbsdmc/rti/underConstruction.php','',_,_,_,_,'0',_,_,_,_,_,_,_)
+SwapDiv('wme36','wme34',_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,'2',_,_,_,_,_,_,_)
+InitDiv();
+HideDiv();
