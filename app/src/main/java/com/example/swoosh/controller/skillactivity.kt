@@ -3,10 +3,13 @@ package com.example.swoosh
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class leagueactivity : AppCompatActivity() {
+class skillactivity : basicactivity() {
+    var league = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_leagueactivity)
+        setContentView(R.layout.activity_skillactivity)
+        league = intent.getStringExtra(EXTRA_LEAGUE)
+        println(league)
     }
 }
